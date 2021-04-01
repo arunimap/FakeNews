@@ -1,2 +1,2 @@
 # FakeNews
-Introductory analysis intro fake news detection
+Introductory analysis for fake news detection
